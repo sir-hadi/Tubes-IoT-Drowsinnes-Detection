@@ -1,0 +1,29 @@
+-- Merging decision tree log ---
+manifest
+ADDED from H:\Code Stuff V2\tubes IoT - Drowsinnes Detection\DDHC\openCVLibrary343\src\main\AndroidManifest.xml:2:1-7:12
+INJECTED from H:\Code Stuff V2\tubes IoT - Drowsinnes Detection\DDHC\openCVLibrary343\src\main\AndroidManifest.xml:2:1-7:12
+INJECTED from H:\Code Stuff V2\tubes IoT - Drowsinnes Detection\DDHC\openCVLibrary343\src\main\AndroidManifest.xml:2:1-7:12
+	package
+		ADDED from H:\Code Stuff V2\tubes IoT - Drowsinnes Detection\DDHC\openCVLibrary343\src\main\AndroidManifest.xml:3:7-27
+		INJECTED from H:\Code Stuff V2\tubes IoT - Drowsinnes Detection\DDHC\openCVLibrary343\src\main\AndroidManifest.xml
+		INJECTED from H:\Code Stuff V2\tubes IoT - Drowsinnes Detection\DDHC\openCVLibrary343\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from H:\Code Stuff V2\tubes IoT - Drowsinnes Detection\DDHC\openCVLibrary343\src\main\AndroidManifest.xml:5:7-34
+	xmlns:android
+		ADDED from H:\Code Stuff V2\tubes IoT - Drowsinnes Detection\DDHC\openCVLibrary343\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from H:\Code Stuff V2\tubes IoT - Drowsinnes Detection\DDHC\openCVLibrary343\src\main\AndroidManifest.xml:4:7-33
+uses-sdk
+INJECTED from H:\Code Stuff V2\tubes IoT - Drowsinnes Detection\DDHC\openCVLibrary343\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from H:\Code Stuff V2\tubes IoT - Drowsinnes Detection\DDHC\openCVLibrary343\src\main\AndroidManifest.xml
+INJECTED from H:\Code Stuff V2\tubes IoT - Drowsinnes Detection\DDHC\openCVLibrary343\src\main\AndroidManifest.xml
+INJECTED from H:\Code Stuff V2\tubes IoT - Drowsinnes Detection\DDHC\openCVLibrary343\src\main\AndroidManifest.xml
+INJECTED from H:\Code Stuff V2\tubes IoT - Drowsinnes Detection\DDHC\openCVLibrary343\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from H:\Code Stuff V2\tubes IoT - Drowsinnes Detection\DDHC\openCVLibrary343\src\main\AndroidManifest.xml
+		ADDED from H:\Code Stuff V2\tubes IoT - Drowsinnes Detection\DDHC\openCVLibrary343\src\main\AndroidManifest.xml
+		INJECTED from H:\Code Stuff V2\tubes IoT - Drowsinnes Detection\DDHC\openCVLibrary343\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from H:\Code Stuff V2\tubes IoT - Drowsinnes Detection\DDHC\openCVLibrary343\src\main\AndroidManifest.xml
+		ADDED from H:\Code Stuff V2\tubes IoT - Drowsinnes Detection\DDHC\openCVLibrary343\src\main\AndroidManifest.xml
+		INJECTED from H:\Code Stuff V2\tubes IoT - Drowsinnes Detection\DDHC\openCVLibrary343\src\main\AndroidManifest.xml

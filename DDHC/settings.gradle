@@ -1,0 +1,3 @@
+rootProject.name = "DDHC"
+include ':app'
+include ':openCVLibrary343'
